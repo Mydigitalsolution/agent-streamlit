@@ -6,3 +6,4 @@ matplotlib
 statsmodels
 openai
 plotly
+python-dotenv
